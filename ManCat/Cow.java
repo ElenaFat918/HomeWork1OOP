@@ -19,5 +19,4 @@ public class Cow extends Animal implements Movement, Eat, Sounds{
     public void eat() {
         System.out.println("Корова поела");
     }
-
 }

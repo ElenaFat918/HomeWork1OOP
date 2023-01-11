@@ -12,7 +12,4 @@ public abstract class Animal {
     public void setName(String name) {
         this.name = name;
     }
-
-    // abstract void setEnvironment(); //среда обитания
-
 }
